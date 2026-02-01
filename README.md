@@ -1,2 +1,2 @@
-# NLP_Assignment_A1
+# my_nlp_project
 My Assignment
